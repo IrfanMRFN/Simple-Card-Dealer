@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Simple-Card-Dealer/1.0.0": {
+        "runtime": {
+          "Simple-Card-Dealer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple-Card-Dealer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
